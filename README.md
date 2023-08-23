@@ -67,11 +67,5 @@ Each script may have its own usage syntax. Refer to the comments or documentatio
 ### Requirements:
 Ensure you have the necessary dependencies, software, and libraries installed. Some scripts might depend on external software or libraries for MD simulations, docking, or data visualization.
 
-### License:
-Please see the accompanying `LICENSE` file for licensing information.
-
-### Contributions:
-Contributions and feedback are welcome. Please raise issues on GitHub or submit pull requests if you have improvements or bug fixes.
-
 ### Note:
 This project was last updated 6 years ago. Some tools might be outdated or require adjustments to work with newer versions of dependencies or software.
