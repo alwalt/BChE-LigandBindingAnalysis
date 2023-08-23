@@ -1,7 +1,7 @@
-## Molecular Dynamics Simulation of Protein System
+## Analysis of Small Ligands Binding to Butyrylcholinesterase
 
 ### Introduction:
-This repository contains a collection of scripts and tools developed over the course of studying the molecular dynamics (MD) simulation of protein systems. These tools aid in various tasks such as data preparation, analysis, clustering, docking, visualization, and more.
+This repository contains a collection of scripts and tools developed over the course of studying and analyzing the binding of small ligands to the protein Butyrylcholinesterase (BChE) via molecular dynamics simulations (MD).  These tools aid in various tasks such as data preparation, analysis, clustering, docking, visualization, and more.
 
 ### File Descriptions:
 
